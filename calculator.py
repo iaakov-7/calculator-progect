@@ -1,2 +1,3 @@
-def multiply(a, b): 
+def multiply(a, b):
+    """Multiply two numbers.""" 
     return a * b
